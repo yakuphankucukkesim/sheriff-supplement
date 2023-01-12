@@ -1,0 +1,10 @@
+ProteinPowder  HARDLINE 908 false 33 609,0 24,1 5460 stawberry
+ProteinPowder WEIDER 2300 false 76 1899,0 22 5460 chocolate
+AminoAcid BigJoy 600 true 50 459,4 3334 833 833
+AminoAcid BigJoy 589 true 32 499,9 5000 2500 2500
+Carnitine HardLine 1000 true 33 439,9 100 2000
+Carnitine KingSize 1000 true 40 329,9 100 3000
+creatine Kingsize 1000 false 200 999,9 5000
+creatine weider 250 false 73 209,9 3409
+ProteinPowder bigJoy 2376 false 75 1120,6 24,1 5500 chocolate
+AminoAcid Weider 500 true 50 549,5 3000 1500 1500
